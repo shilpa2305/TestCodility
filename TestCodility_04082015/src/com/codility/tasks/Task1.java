@@ -15,6 +15,7 @@ public class Task1 {
 		// TODO Auto-generated method stub
 		System.out.println("Declaration and initialization!!");
 		System.out.println("Demo");
+		System.out.println("Make some changes for fixCaps local branch");
 		int A[]={1,4,5,8},B[]={4,5,9,10},C[]={1,5,8,2,4,9,3,7,20,21,58,6};
 		int nails=-1;
 		int i=0,j=0;

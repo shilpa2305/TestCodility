@@ -14,6 +14,7 @@ public class Task1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Declaration and initialization!!");
+		System.out.println("Demo");
 		int A[]={1,4,5,8},B[]={4,5,9,10},C[]={1,5,8,2,4,9,3,7,20,21,58,6};
 		int nails=-1;
 		int i=0,j=0;
